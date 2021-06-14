@@ -42,4 +42,5 @@ export default {
         flex: 1;
         margin-bottom: 0.7vw;
     }
+    /*  */
 </style>
