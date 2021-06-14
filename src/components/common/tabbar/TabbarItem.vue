@@ -51,15 +51,15 @@ export default {
 .tab-bar-item {
     flex: 1;
     text-align: center;
-    height: 49px;
-    font-size: 14px;
+    height: 13vw;
+    font-size: 3.74vw;
     color:black;
   }
   .tab-bar-item img {
-    width: 24px;
-    height: 24px;
+    width: 6.4vw;
+    height: 6.4vw;
     vertical-align: middle;
-    margin: 4px 0 2px 0;
+    margin: 1.06vw 0 0.503vw 0;
   }
   .actived {
     color:coral;
