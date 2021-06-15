@@ -17,13 +17,12 @@ export default {
 /* 1vw = 3.75px in i8 */
     .nav-bar{
         display: flex;
-        line-height: 12vw;
+        line-height: 12.09vw;
         text-align: center;
         
     }   
     .left,.right{
         width: 17vw;
-        
     }
     .center{
         font-size: 4.2vw;
