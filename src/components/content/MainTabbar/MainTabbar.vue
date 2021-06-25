@@ -1,5 +1,5 @@
 <template>
-  
+  <div class="mainTabbar">
     <tabbar><!-- 这里组件中引入了tabbar类，下面的tabbar-item同理 -->
       <tabbar-item path='/home'>
         <img slot="item-icon" src="../../../assets/img/tabbar/auto.svg" alt="">
@@ -22,6 +22,7 @@
         <div slot="item-text">我的</div>
       </tabbar-item>
     </tabbar>
+    </div>
 </template>
 
 <script>
@@ -34,8 +35,8 @@ export default {
     TabbarItem
   }
 }
+  
 </script>
 
 <style>
-  
 </style>
